@@ -66,8 +66,8 @@ WSGI_APPLICATION = 'dcrm.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'crmapp',
-        'USER': 'zey4n',
+        'NAME': 'Zey4n$default',
+        'USER': 'Zey4n',
         'PASSWORD': 'zeyan012906',
         'HOST': 'Zey4n.mysql.pythonanywhere-services.com',
         'PORT': '3306',
