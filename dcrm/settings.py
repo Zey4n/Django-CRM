@@ -69,7 +69,7 @@ DATABASES = {
         'NAME': 'crmapp',
         'USER': 'zey4n',
         'PASSWORD': 'zeyan012906',
-        'HOST': '127.0.0.1',
+        'HOST': 'Zey4n.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
