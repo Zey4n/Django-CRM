@@ -69,7 +69,7 @@ DATABASES = {
         'NAME': 'crmapp',
         'USER': 'zey4n',
         'PASSWORD': 'zeyan012906',
-        'HOST': 'localhost',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
     }
 }
